@@ -13,7 +13,8 @@ Team Members:
 
 Презентация: [тык](https://drive.google.com/file/d/1Y9PHpq7XBh8T7Z93DeMpwOZBZEdiRIJ4/view?usp=sharing)
 
-
+## Схема Backend части
+[Scheme](https://github.com/Srg206/Backend_for_Expohack/blob/main/backend%20scheme.png)
 ## Задача хакатона
 
 > Создать единый механизм управления клиентскими базами, позволяющий оптимизировать взаимодействие с клиентами и предлагать различные услуги из разных компаний, входящих в число компаний-партнеров Экспобанка.
